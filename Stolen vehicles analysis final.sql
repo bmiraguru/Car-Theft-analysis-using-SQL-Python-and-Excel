@@ -1,3 +1,5 @@
+#In this analysis I have used SQL concepts such as Temp tables, Aggregations and Joins to  gather insights from the CSV files.#
+
 use vehicles;
 #Joining tables and creating a temp table for better analysis#
 
